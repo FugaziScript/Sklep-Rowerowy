@@ -1,0 +1,2 @@
+Interfejs Item.
+Reszta Klas, która po nim dziedziczy.

@@ -1,0 +1,1 @@
+Folder do testowania poszczególnych części programu.

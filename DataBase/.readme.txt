@@ -1,0 +1,4 @@
+Dependencies:
+	microsoft.data.sqlite
+	dapper
+	System.Configuration.ConfigurationManager

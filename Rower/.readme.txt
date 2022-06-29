@@ -1,0 +1,2 @@
+Klasy pochodne klasy abstrakcyjnej rower.
+Każda z klas w odrębnym pliku.

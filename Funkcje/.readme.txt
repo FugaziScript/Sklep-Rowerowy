@@ -1,0 +1,9 @@
+Ogólny folder na funkcje pomocnicze.
+
+Dodałem klasę tostr.
+Klasa tostr zawiera różne funkcje, które za zadanie mają przekształcać różne dane do typu string.
+Na razie zrobiłem funkcje:
+	Dla różnych typów enum (tak, żeby przy wyświetlaniu wyświetlało się ładnie, a ie np z "_" pomiędzy słowami).
+	Dla listy konkretnych enumów zwraca string, w którym poszczególne elementy są wymienione w osobnych liniach i poprzedzone tabem.
+
+Błażej
